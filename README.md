@@ -1,10 +1,12 @@
-# Pre-Survey
+# Kaleidatascope
+
+## Pre-Survey
 
 Pre-survey link: http://ulsurvey.uni.lu/index.php/245635?lang=en
 
 Additionally for teachers: http://ulsurvey.uni.lu/index.php/951447?lang=en
 
-# Post-Survey
+## Post-Survey
 
 Post-survey link: http://ulsurvey.uni.lu/index.php/722345?lang=en
 
