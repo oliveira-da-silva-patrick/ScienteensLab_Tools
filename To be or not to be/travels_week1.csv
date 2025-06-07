@@ -1,0 +1,15 @@
+﻿start_position,end_position,start_time,end_time,duration_min,weekday,date,temperature_C,distance_km,fuel_used_l,gps_music_enabled
+Home,Fischer,7h45,7h50,5,Monday,1/1/2025,-1,1.2,0.4,0
+Fischer,ScienteensLab,7h55,8h15,20,Monday,1/1/2025,-2,13.4,5.1,0
+ScienteensLab,Cactus,12h13,12h21,8,Monday,1/1/2025,2,7.4,2.3,0
+Cactus,ScienteensLab,12h52,13h00,8,Monday,1/1/2025,4,8.2,2.4,0
+ScienteensLab,Gym,17h41,18h03,22,Monday,1/1/2025,2,8.4,3.1,0
+Gym,Home,19h34,19h47,13,Monday,1/1/2025,-1,4.2,1.7,0
+Home,Fischer,7h49,7h53,4,Wednesday,3/1/2025,2,1.2,0.4,0
+Fischer,ScienteensLab,7h55,8h11,16,Wednesday,3/1/2025,2,13.7,4.9,0
+ScienteensLab,Home,17h34,18h23,49,Wednesday,3/1/2025,2,11.1,4.2,0
+Home,ScienteensLab,8h11,8h43,32,Friday,5/1/2025,0,14.2,6.1,0
+ScienteensLab,Cinema,18h34,18h39,5,Friday,5/1/2025,2,0.4,0.2,0
+Cinema,Home,21h17,21h34,17,Friday,5/1/2025,1,13.9,5.4,0
+Home,Cloche D'Or,11h04,11h17,13,Saturday,6/1/2025,-4,9.4,3.3,0
+Cloche D'Or,Home,15h43,15h59,16,Saturday,6/1/2025,-1,9.5,3.2,0
