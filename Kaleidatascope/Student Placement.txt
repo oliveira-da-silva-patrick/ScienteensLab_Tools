@@ -1,5 +1,0 @@
-Rows: 700
-Columns: 13
-Columns: The dataset includes columns for various technical and soft skills, participation in hackathons, and proficiency in certain tools or languages. The columns are DSA (Data Structures and Algorithms), DBMS (Database Management Systems), OS (Operating Systems), CN (Computer Networks), Mathematics, Aptitude, Communication, Problem Solving, Creativity, Hackathons, Skill 1, Skill 2, and the Profile they might fit into.
-Entries: Each row represents a student, with their scores or levels in these different areas.
-Purpose: This dataset could be used to analyze the skills and interests of students, helping in determining their suitability for different professional profiles like UI/UX, development, data science, etc.
